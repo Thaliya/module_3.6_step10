@@ -1,5 +1,5 @@
 # module_3.6_step10
-# install dependencies into your virtual envirinment if needed
+# install dependencies into your virtual environment if needed
 pip install -r requirements.txt
 
 # Run the following test:
